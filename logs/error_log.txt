@@ -1,0 +1,8 @@
+2025-07-07 05:57:31.108701 - ERROR: 401 Unauthorized
+Unauthorized
+2025-07-07 06:12:11.543726 - ERROR: 401 Unauthorized
+Unauthorized
+2025-07-07 06:45:55.932685 - ERROR: 401 Unauthorized
+Unauthorized
+2025-07-07 06:56:27.967279 - ERROR: 429 Too Many Requests
+Too Many Requests
